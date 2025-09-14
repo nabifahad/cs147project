@@ -1,0 +1,26 @@
+{
+  "campaign_name": "Q4 Prospecting - Sales",
+  "adset_name": "Broad - US - 21-55 - Advantage+",
+  "ad_names": [
+    "UGC Testimonial v1",
+    "Problem Solution v1",
+    "Value Stack v1"
+  ],
+  "optimization_event": "PURCHASE",
+  "start_time_iso": "",
+  "end_time_iso": "",
+  "conversion_domain": "example.com",
+  "placements": "ADVANTAGE_PLUS",
+  "age_min": 21,
+  "age_max": 55,
+  "genders": [],
+  "interests": [],
+  "countries": ["US"],
+  "languages": [],
+  "utm_params": {
+    "utm_source": "facebook",
+    "utm_medium": "paid_social",
+    "utm_campaign": "q4_prospecting",
+    "utm_content": "{{ad.name}}"
+  }
+}
